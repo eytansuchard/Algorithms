@@ -3,4 +3,14 @@ See: https://www.researchgate.net/publication/335107380_Electro-gravity_via_Geom
 Also see an earlier version in: https://arxiv.org/abs/1806.05244
 A less advanced version can be seen in https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012019
 In https://www.researchgate.net/publication/335107380_Electro-gravity_via_Geometric_Chronon_Field_and_on_the_Origin_of_Mass
-(43) is the mass ratio between the Muon and the electron. (43.7.1) Weinberg angle, (43.8) W+ / Tau mass ratio. + for space-like P(Myu) where U(Myu) is null, (43.12) Tau/Muon mass ratio. (43.17)-(43.17.2) (like (43.12) is based on (43.10),(43.11)) is the inverse Fine Structure Constant. (43.17.3)-(43.17.6) - On the mass gap. (29),(30) - equivalence of charge and gravitational mass. That calss for a breakthrough wrap drive technology, however, -1 Coulombs generates -5.90213 * 10^9 Kg gravitational mass, +Coulombs generates +5.90213 * 10^9 Kg. That means that 1 MV on 1 Meters^ capacitor plates at distance 1 Meters will separat about (-,+)51370 Kg. Not sufficient for an Alcubierre Warp Drive's requirement (-,+)10^27 Kg. So static charge seperation will not yield any measurable thrust. The solutio therefore must use dynamic electric fields as well as high charge separation along an axis an along distance.
+(43) is the mass ratio between the Muon and the electron. (43.7.1) Weinberg angle,
+(43.8) W+ / Tau mass ratio. + for space-like P(Myu) where U(Myu) is null,
+(43.12) Tau/Muon mass ratio. (43.17)-(43.17.2) (like (43.12) is based on (43.10),
+(43.11)) is the inverse Fine Structure Constant.
+(43.17.3)-(43.17.6) - On the mass gap. (29),(30) - equivalence of charge and
+gravitational mass. That calss for a breakthrough wrap drive technology, however,
+-1 Coulombs generates -5.90213 * 10^9 Kg gravitational mass, +Coulombs generates +5.90213 * 10^9 Kg.
+That means that 1 MV on 1 Meters^ capacitor plates at distance 1 Meters will separat about
+(-,+)51370 Kg. Not sufficient for an Alcubierre Warp Drive's requirement (-,+)10^27 Kg. So static
+charge seperation will not yield any measurable thrust. The solutio therefore must use dynamic
+electric fields as well as high charge separation along an axis an along distance.
